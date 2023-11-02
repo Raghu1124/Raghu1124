@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghunandan Bansal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Competitive Programmer and Android Developer (Kotlin))</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghu1124&label=Profile%20views&color=0e75b6&style=flat" alt="raghu1124" /> </p>
 
@@ -7,11 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/im_mrrnb" target="blank"><img src="https://img.shields.io/twitter/follow/im_mrrnb?logo=twitter&style=for-the-badge" alt="im_mrrnb" /></a> </p>
 
+- 🌱 I’m currently learning **competitive programming, android development**
+
+- 📫 How to reach me **raghubansal1102@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/im_mrrnb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_mrrnb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raghunandanbansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghunandanbansal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mrrb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrrb" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/raghunandan_11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raghunandan_11" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/raghubansal1102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="raghubansal1102" height="30" width="40" /></a>
 </p>
