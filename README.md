@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/im_mrrnb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_mrrnb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raghunandanbansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghunandanbansal" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/raghunandan_11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg(https://images.yourstory.com/cs/images/companies/codechef-1592821643695.jpg?fm=auto&ar=1:1&mode=fill&fill=solid&fill-color=fff)" alt="raghunandan_11" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/raghunandan_11" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="raghunandan_11" height="40" width="55" /></a>
 <a href="https://codeforces.com/profile/raghubansal1102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="raghubansal1102" height="30" width="40" /></a>
 </p>
 
