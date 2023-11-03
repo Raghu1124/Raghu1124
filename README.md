@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghunandan Bansal</h1>
-<h3 align="center">A passionate Competitive Programmer and Android Developer (Kotlin))</h3>
+<h3 align="center">A passionate Competitive Programmer and Android Developer (Kotlin)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghu1124&label=Profile%20views&color=0e75b6&style=flat" alt="raghu1124" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/im_mrrnb" target="blank"><img src="https://img.shields.io/twitter/follow/im_mrrnb?logo=twitter&style=for-the-badge" alt="im_mrrnb" /></a> </p>
 
-- 🌱 I’m currently learning **competitive programming, android development**
+- 🌱 I’m currently practicing **competitive programming, android development**
 
 - 📫 How to reach me **raghubansal1102@gmail.com**
 
