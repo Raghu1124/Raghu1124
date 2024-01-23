@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghunandan Bansal</h1>
-<h3 align="center">A passionate Competitive Programmer and Android Developer (Kotlin)</h3>
+<h3 align="center">A passionate Competitive Programmer and Android Developer (Kotlin) and Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghu1124&label=Profile%20views&color=0e75b6&style=flat" alt="raghu1124" /> </p>
 
