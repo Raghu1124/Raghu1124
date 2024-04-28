@@ -5,15 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghu1124" alt="raghu1124" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/im_mrrnb" target="blank"><img src="https://img.shields.io/twitter/follow/im_mrrnb?logo=twitter&style=for-the-badge" alt="im_mrrnb" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ImRaghuBansal" target="blank"><img src="https://img.shields.io/twitter/follow/ImRaghuBansal?logo=twitter&style=for-the-badge" alt="im_mrrnb" /></a> </p>
+<p align="left> <a href="https://linkedin.com/in/raghunandanbansal" target="blank"><img src="https://img.shields.io/twitter/follow/raghunandanbansal?logo=linkedin&style=for-the-badge" alt="raghunandanbansal" /></a> </p>
 
-- 🌱 I’m currently practicing **competitive programming, android development**
+- 🌱 I’m currently practicing **competitive programming, android development, web development**
 
 - 📫 How to reach me **raghubansal1102@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/im_mrrnb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_mrrnb" height="30" width="40" /></a>
+<a href="https://twitter.com/ImRaghuBansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_mrrnb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raghunandanbansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghunandanbansal" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/raghunandan_11" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="raghunandan_11" height="40" width="55" /></a>
 <a href="https://codeforces.com/profile/raghubansal1102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="raghubansal1102" height="30" width="40" /></a>
